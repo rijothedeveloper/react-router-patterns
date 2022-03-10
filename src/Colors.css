@@ -1,0 +1,9 @@
+.colorButton {
+    padding: 20px;
+    background-color: antiquewhite;
+    color: whitesmoke;
+}
+
+.colors a{
+    display: block;
+}
